@@ -1,0 +1,4 @@
+body{font-family: Arial, sans-serif;background:#f5f7fa;color:#222}
+.container{max-width:800px;margin:40px auto;padding:20px;background:#fff;border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,0.08)}
+a{color:#0a6;}
+code{background:#eee;padding:2px 4px;border-radius:3px}
